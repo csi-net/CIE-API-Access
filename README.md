@@ -27,7 +27,7 @@ We are working to implement the following in the future:
 - API request filters for gathering, searching, and using information.
 
 ### Direct API Access
-There are many ways to access the API.
+We recommend [https://www.getpostman.com/](https://www.getpostman.com/) for testing requests against the API and getting familiar with the responses.
 
 Please see our documentation at getpostman.com for examples of the endpoints available and example responses:
 https://documenter.getpostman.com/view/7286040/S1TbRZqt
@@ -66,7 +66,6 @@ https://cie.csinet.org/api/classifications/1
 
 - Get a specific version of a Classification (ClassificationVersionId = 1)
 https://cie.csinet.org/api/classificationversions/1
-
 
 ### Feedback and Support
 Please post all feedback and business concerns to Ken Monblatt at [kmonblatt@cimatri.com](mailto:kmonblatt@cimatri.com)
